@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 i'm a student in 1337 coding school, 42 The Network
 ---------------------------------------------------
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mohimi" alt="mohimi's 42 stats" /></a>
 I love code!
 
 * 🌍  I'm based in Ouarzazate city, Morroco
