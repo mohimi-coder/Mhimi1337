@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 i'm a student in 1337 coding school, 42 The Network
 ---------------------------------------------------
-
+ <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mohimi" alt="mohimi's 42 stats" /></a>
 I love code!
 
 *   🌍  I'm based in Ouarzazate city, Morroco
@@ -13,7 +13,7 @@ I love code!
 *   🧠  I'm learning c programming language and other languages!
 *   🤝  I'm open to collaborating on c programming language, or python!
 *   ⚡  i'm secretly Superman... but don't tell anyone!<a href="https://www.github.com/Mhimi1337" target="_blank" rel="noreferrer"><img
-      <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mohimi" alt="mohimi's 42 stats" /></a>
+     
                   src="https://img.shields.io/github/followers/Mhimi1337?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/Himi Mohamed" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Himi Mohamed?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
                 /></a>### Skills
