@@ -48,6 +48,7 @@ src="https://img.shields.io/twitter/follow/Himi Mohamed?logo=twitter&style=for-t
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,webflow,ae,wordpress)](https://skillicons.dev)
 
 <br>
+
 ## 42 School Projects
 
 | Rank 1 | 
