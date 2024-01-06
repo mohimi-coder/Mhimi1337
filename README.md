@@ -48,13 +48,6 @@ src="https://img.shields.io/twitter/follow/Himi Mohamed?logo=twitter&style=for-t
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,webflow,ae,wordpress)](https://skillicons.dev)
 
 <br>
-
-## 42 School Projects
-
-| Rank 1 | 
-| ------ |
-| [![libft](https://github.com/Mhimi1337/42-project-badges/blob/main/badges/libftm.png)](https://https://github.com/Mhimi1337/libft) |
-
 > :desktop_computer:  Design Tools - Figma | Adobe XD | Canva | Sketch | InVision | Balsamiq | Marvel | Proto
 
 > 🛌 Digital Suites - Adobe Suite | Microsoft Office | Google Suite
