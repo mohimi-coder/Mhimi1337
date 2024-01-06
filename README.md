@@ -44,3 +44,92 @@ src="https://img.shields.io/twitter/follow/Himi Mohamed?logo=twitter&style=for-t
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
+## :artist: Current Design Skills
+
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,webflow,ae,wordpress)](https://skillicons.dev)
+
+<br>
+
+> :desktop_computer:  Design Tools - Figma | Adobe XD | Canva | Sketch | InVision | Balsamiq | Marvel | Proto
+
+> 🛌 Digital Suites - Adobe Suite | Microsoft Office | Google Suite
+
+> 🗣️ Team Tools - Slack | Miro | Trello | Notion | Mural | Jira | Asana
+
+> 🖥️ Web Design and Development - Framer | Wix | Webflow | Wordpress
+
+<details>
+  <summary>💻 See More Design Skills</summary>
+  
+## 🧍 User
+  📊 User Research and Analysis 
+
+  🗺️ Persona Creation and Empathy Mapping
+
+  📖 User Stories, Flows and Journey Mapping
+
+  🗣️ Conducting User Interviews and Surveys
+
+  📑 Storyboarding and User Story Creation
+
+  🧑‍🏫 User Onboarding and User Training
+
+  ❓ Iterative User Testing and Feedback Incorporation
+
+  📷 User Behavior Tracking
+
+  💻 Usability Testing
+
+<br>
+
+## 🖋️ Design
+    
+  👁️ Accessibility and Inclusive Design
+  
+  🥅 Gamification and Behavioral Design
+  
+  🌐 Multilingual and Multicultural Design Considerations
+  
+  🛒 Competitor Analysis and Benchmarking
+  
+  🖥️ A/B Testing and Iterative Design
+
+<br>
+
+## 💻 Development
+
+  📑 Design Systems and Libraries
+  
+  🗒️ Wireframing, Mockups and Prototyping
+  
+  🖱️ Interactions, Microinteractions and Motion Design
+  
+  🏗️ Information Architecture
+  
+  📢 Collaboration with Cross-Functional Teams and Stakeholders
+  
+  🧑‍💻 Multi-Device and Responsive Design
+  > 🖥️ Web
+ 
+  > 📱 Mobile
+
+  > :window: Tablet
+ 
+  > 👓 AR/VR
+
+  > 🖥️ Dashboard
+
+  > ⌚ Watch
+
+  > 📺 TV
+
+  > 🎮 Consoles
+ 
+  > 📺 Presentations
+
+  > 📶 Smart Home Devices and Applications
+ 
+  > :placard: Digital Signage and Billboards
+
+  > ✋Kiosks
+    
